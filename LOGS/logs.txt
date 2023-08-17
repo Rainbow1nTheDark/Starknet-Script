@@ -1,0 +1,175 @@
+2023-08-15 15:02:20,980 : Converted retries value: 5 -> Retry(total=5, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:02:20,997 : Session cached: https://starknet-mainnet.public.blastapi.io, <requests.sessions.Session object at 0x000002A3AE2B4B80>
+2023-08-15 15:02:21,034 : Making request. Method: eth_getBalance
+2023-08-15 15:02:21,037 : Making request HTTP. URI: https://starknet-mainnet.public.blastapi.io, Method: eth_getBalance
+2023-08-15 15:02:21,040 : Starting new HTTPS connection (1): starknet-mainnet.public.blastapi.io:443
+2023-08-15 15:02:21,511 : https://starknet-mainnet.public.blastapi.io:443 "POST / HTTP/1.1" 400 146
+2023-08-15 15:02:21,514 : Making request HTTP. URI: https://starknet-mainnet.public.blastapi.io, Method: eth_getBalance
+2023-08-15 15:02:21,693 : https://starknet-mainnet.public.blastapi.io:443 "POST / HTTP/1.1" 400 146
+2023-08-15 15:02:21,693 : Making request HTTP. URI: https://starknet-mainnet.public.blastapi.io, Method: eth_getBalance
+2023-08-15 15:02:21,872 : https://starknet-mainnet.public.blastapi.io:443 "POST / HTTP/1.1" 400 146
+2023-08-15 15:02:21,873 : Making request HTTP. URI: https://starknet-mainnet.public.blastapi.io, Method: eth_getBalance
+2023-08-15 15:02:22,029 : https://starknet-mainnet.public.blastapi.io:443 "POST / HTTP/1.1" 400 146
+2023-08-15 15:02:22,031 : Making request HTTP. URI: https://starknet-mainnet.public.blastapi.io, Method: eth_getBalance
+2023-08-15 15:02:22,197 : https://starknet-mainnet.public.blastapi.io:443 "POST / HTTP/1.1" 400 146
+2023-08-15 15:06:06,913 : Converted retries value: 5 -> Retry(total=5, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:06:06,924 : Session cached: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, <requests.sessions.Session object at 0x00000194CC3A4F40>
+2023-08-15 15:06:06,932 : Making request. Method: eth_getBalance
+2023-08-15 15:06:06,933 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:06:06,936 : Starting new HTTPS connection (1): starknet-mainnet.blastapi.io:443
+2023-08-15 15:06:07,297 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:06:07,299 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:06:07,512 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:06:07,527 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:06:07,694 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:06:07,694 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:06:07,838 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:06:07,840 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:06:08,014 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:07:07,080 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:07:07,094 : Session cached: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, <requests.sessions.Session object at 0x000002046F8A4F70>
+2023-08-15 15:07:07,095 : Making request. Method: eth_getBalance
+2023-08-15 15:07:07,095 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:07:07,103 : Starting new HTTPS connection (1): starknet-mainnet.blastapi.io:443
+2023-08-15 15:07:07,417 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:07:07,420 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:07:07,579 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:07:07,579 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:07:07,746 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:07:07,746 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:07:07,913 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:07:07,928 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:07:08,094 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:08:15,922 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:08:15,923 : Session cached: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, <requests.sessions.Session object at 0x0000023A311B8AF0>
+2023-08-15 15:08:15,930 : Making request. Method: eth_getBalance
+2023-08-15 15:08:15,930 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:08:15,930 : Starting new HTTPS connection (1): starknet-mainnet.blastapi.io:443
+2023-08-15 15:08:16,303 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:08:16,305 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:08:16,498 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:08:16,498 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:08:16,661 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:08:16,661 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:08:16,824 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:08:16,826 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:08:16,984 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:10:57,709 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:10:57,709 : Session cached: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, <requests.sessions.Session object at 0x0000025B182A8EB0>
+2023-08-15 15:10:57,725 : Making request. Method: eth_getBalance
+2023-08-15 15:10:57,725 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:10:57,726 : Starting new HTTPS connection (1): starknet-mainnet.blastapi.io:443
+2023-08-15 15:10:58,063 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:10:58,079 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:10:58,229 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:10:58,229 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:10:58,412 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:10:58,412 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:10:58,575 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:10:58,577 : Making request HTTP. URI: https://starknet-mainnet.blastapi.io/9e797bcc-a804-409e-8367-608bbe042790, Method: eth_getBalance
+2023-08-15 15:10:58,730 : https://starknet-mainnet.blastapi.io:443 "POST /9e797bcc-a804-409e-8367-608bbe042790 HTTP/1.1" 400 146
+2023-08-15 15:18:47,997 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:18:47,997 : Session cached: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, <requests.sessions.Session object at 0x0000018C046A4FA0>
+2023-08-15 15:18:48,012 : Making request. Method: eth_getBalance
+2023-08-15 15:18:48,013 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:18:48,014 : Starting new HTTPS connection (1): starknet-mainnet.infura.io:443
+2023-08-15 15:18:48,360 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:18:48,360 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:18:48,430 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:18:48,432 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:18:48,509 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:18:48,511 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:18:48,593 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:18:48,595 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:18:48,669 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:27:54,337 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:27:54,338 : Session cached: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, <requests.sessions.Session object at 0x0000017B61BA4BB0>
+2023-08-15 15:27:54,347 : Making request. Method: eth_getBalance
+2023-08-15 15:27:54,348 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:27:54,350 : Starting new HTTPS connection (1): starknet-mainnet.infura.io:443
+2023-08-15 15:27:54,655 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:27:54,657 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:27:54,738 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:27:54,740 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:27:54,815 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:27:54,817 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:27:54,894 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:27:54,898 : Making request HTTP. URI: https://starknet-mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 15:27:54,976 : https://starknet-mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 400 94
+2023-08-15 15:32:06,210 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:32:06,225 : Session cached: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, <requests.sessions.Session object at 0x000001F6154A4F70>
+2023-08-15 15:32:06,225 : Making request. Method: eth_getBalance
+2023-08-15 15:32:06,225 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:06,234 : Starting new HTTPS connection (1): g.w.lavanet.xyz:443
+2023-08-15 15:32:06,714 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:32:06,714 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:06,803 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:32:06,805 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:06,893 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:32:06,895 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:06,983 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 184
+2023-08-15 15:32:06,984 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:07,064 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:32:48,372 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:32:48,380 : Making request. Method: eth_getBalance
+2023-08-15 15:32:48,381 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:48,381 : Session cached: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, <requests.sessions.Session object at 0x000001E50F4A9450>
+2023-08-15 15:32:48,382 : Starting new HTTPS connection (1): g.w.lavanet.xyz:443
+2023-08-15 15:32:48,667 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:32:48,669 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:48,747 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:32:48,749 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:48,852 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 184
+2023-08-15 15:32:48,854 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:49,034 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:32:49,035 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:32:49,137 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:56:50,706 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 15:56:50,714 : Making request. Method: eth_getBalance
+2023-08-15 15:56:50,714 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:56:50,714 : Session cached: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, <requests.sessions.Session object at 0x0000025256FA9480>
+2023-08-15 15:56:50,714 : Starting new HTTPS connection (1): g.w.lavanet.xyz:443
+2023-08-15 15:56:51,145 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 184
+2023-08-15 15:56:51,145 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:56:51,241 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 184
+2023-08-15 15:56:51,241 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:56:51,313 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:56:51,321 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:56:51,401 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 15:56:51,401 : Making request HTTP. URI: https://g.w.lavanet.xyz:443/gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2, Method: eth_getBalance
+2023-08-15 15:56:51,473 : https://g.w.lavanet.xyz:443 "POST /gateway/strk/rpc-http/534256e35c926795c6126317914d2ed2 HTTP/1.1" 500 185
+2023-08-15 16:34:33,013 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 16:34:33,029 : Making request. Method: eth_getBalance
+2023-08-15 16:34:33,029 : Making request HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 16:34:33,029 : Session cached: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, <requests.sessions.Session object at 0x000001D6042A93F0>
+2023-08-15 16:34:33,037 : Starting new HTTPS connection (1): mainnet.infura.io:443
+2023-08-15 16:34:33,356 : https://mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 200 39
+2023-08-15 16:34:33,372 : Getting response HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance, Response: {'jsonrpc': '2.0', 'id': 0, 'result': '0x0'}
+2023-08-15 16:35:18,932 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 16:35:18,946 : Making request. Method: eth_getBalance
+2023-08-15 16:35:18,946 : Making request HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 16:35:18,946 : Session cached: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, <requests.sessions.Session object at 0x00000173149A93F0>
+2023-08-15 16:35:18,946 : Starting new HTTPS connection (1): mainnet.infura.io:443
+2023-08-15 16:35:19,250 : https://mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 200 39
+2023-08-15 16:35:19,250 : Getting response HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance, Response: {'jsonrpc': '2.0', 'id': 0, 'result': '0x0'}
+2023-08-15 16:35:38,116 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 16:35:38,116 : Making request. Method: eth_getBalance
+2023-08-15 16:35:38,116 : Making request HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 16:35:38,127 : Session cached: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, <requests.sessions.Session object at 0x00000298600A9480>
+2023-08-15 16:35:38,127 : Starting new HTTPS connection (1): mainnet.infura.io:443
+2023-08-15 16:35:38,433 : https://mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 200 39
+2023-08-15 16:35:38,441 : Getting response HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance, Response: {'jsonrpc': '2.0', 'id': 0, 'result': '0x0'}
+2023-08-15 16:36:27,741 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 16:36:27,749 : Making request. Method: eth_getBalance
+2023-08-15 16:36:27,749 : Making request HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 16:36:27,749 : Session cached: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, <requests.sessions.Session object at 0x0000024657EA9450>
+2023-08-15 16:36:27,757 : Starting new HTTPS connection (1): mainnet.infura.io:443
+2023-08-15 16:36:28,107 : https://mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 200 39
+2023-08-15 16:36:28,107 : Getting response HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance, Response: {'jsonrpc': '2.0', 'id': 0, 'result': '0x0'}
+2023-08-15 16:38:10,557 : Converted retries value: 1 -> Retry(total=1, connect=None, read=None, redirect=None, status=None)
+2023-08-15 16:38:10,567 : Making request. Method: eth_getBalance
+2023-08-15 16:38:10,567 : Making request HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance
+2023-08-15 16:38:10,567 : Session cached: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, <requests.sessions.Session object at 0x000001BD33AA55D0>
+2023-08-15 16:38:10,573 : Starting new HTTPS connection (1): mainnet.infura.io:443
+2023-08-15 16:38:10,934 : https://mainnet.infura.io:443 "POST /v3/e811067a732343d8983a0f6fdab98bb0 HTTP/1.1" 200 39
+2023-08-15 16:38:10,934 : Getting response HTTP. URI: https://mainnet.infura.io/v3/e811067a732343d8983a0f6fdab98bb0, Method: eth_getBalance, Response: {'jsonrpc': '2.0', 'id': 0, 'result': '0x0'}
